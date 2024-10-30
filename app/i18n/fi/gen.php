@@ -21,7 +21,7 @@ return array(
 		'delete_muted_feeds' => 'Poista vaimennetut syötteet',
 		'demote' => 'Laske tärkeyttä',
 		'disable' => 'Poista käytöstä',
-		'download' => 'Lataa',	// DIRTY
+		'download' => 'Lataa',
 		'empty' => 'Tyhjennä',
 		'enable' => 'Ota käyttöön',
 		'export' => 'Vie',
@@ -34,9 +34,9 @@ return array(
 			'open' => 'Avaa valikko',
 		),
 		'nav_buttons' => array(
-			'next' => 'Seuraava artikkeli',	// DIRTY
-			'prev' => 'Edellinen artikkeli',	// DIRTY
-			'up' => 'Siirry ylöspäin',	// DIRTY
+			'next' => 'Seuraava artikkeli',
+			'prev' => 'Edellinen artikkeli',
+			'up' => 'Siirry ylöspäin',
 		),
 		'open_url' => 'Avaa URL-osoite',
 		'promote' => 'Nosta tärkeyttä',
@@ -155,6 +155,7 @@ return array(
 		'en-us' => 'English (United States)',	// IGNORE
 		'es' => 'Español',	// IGNORE
 		'fa' => 'فارسی',	// IGNORE
+		'fi' => 'Suomi',	// IGNORE
 		'fr' => 'Français',	// IGNORE
 		'he' => 'עברית',	// IGNORE
 		'hu' => 'Magyar',	// IGNORE
@@ -184,7 +185,7 @@ return array(
 		'display' => 'Näkymä',
 		'extensions' => 'Laajennukset',
 		'logs' => 'Lokit',
-		'privacy' => 'Tietosuoja',	// DIRTY
+		'privacy' => 'Tietosuoja',
 		'queries' => 'Käyttäjän kyselyt',
 		'reading' => 'Lukeminen',
 		'search' => 'Hae sanoja tai #tunnisteita',

@@ -116,7 +116,7 @@ return array(
 		'description' => 'Kuvaus',
 		'disabled' => 'Poissa käytöstä',
 		'empty_list' => 'Asennettuja laajennuksia ei ole',
-		'empty_list_help' => 'Voit tarkistaa lokeista, miksi laajennusluettelo on tyhjä.',	// DIRTY
+		'empty_list_help' => 'Voit tarkistaa lokeista, miksi laajennusluettelo on tyhjä.',
 		'enabled' => 'Käytössä',
 		'latest' => 'Asennettu',
 		'name' => 'Nimi',

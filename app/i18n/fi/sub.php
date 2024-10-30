@@ -84,10 +84,10 @@ return array(
 		'kind' => array(
 			'_' => 'Syötteen lähteen laji',
 			'html_json' => array(
-				'_' => 'HTML + XPath + JSON-pistemerkintä (JSON HTML:ssä)',	// DIRTY
+				'_' => 'HTML + XPath + JSON-pistemerkintä (JSON HTML:ssä)',
 				'xpath' => array(
-					'_' => 'XPath (JSON HTML:ssä)',	// DIRTY
-					'help' => 'Esimerkki: <code>//script[@type="application/json"]</code>',	// DIRTY
+					'_' => 'XPath (JSON HTML:ssä)',
+					'help' => 'Esimerkki: <code>//script[@type="application/json"]</code>',
 				),
 			),
 			'html_xpath' => array(
@@ -230,8 +230,8 @@ return array(
 		'ttl' => 'Älä päivitä automaattisesti useammin kuin',
 		'unicityCriteria' => array(
 			'_' => 'Artikkelin yksilöivät ehdot',
-			'forced' => '<span title="Estä yksilöivät ehdot, vaikka syötteen artikkeleista olisi kaksoiskappaleita">pakotettu</span>',	// DIRTY
-			'help' => 'Olennainen virheellisille syötteille.<br />⚠️ Käytännön muuttaminen luo kaksoiskappaleita.',	// DIRTY
+			'forced' => '<span title="Estä yksilöivät ehdot, vaikka syötteen artikkeleista olisi kaksoiskappaleita">pakotettu</span>',
+			'help' => 'Olennainen virheellisille syötteille.<br />⚠️ Käytännön muuttaminen luo kaksoiskappaleita.',
 			'id' => 'Perustunnus (oletus)',
 			'link' => 'Linkki',
 			'sha1:link_published' => 'Linkki + päiväys',
@@ -247,8 +247,8 @@ return array(
 	),
 	'import_export' => array(
 		'export' => array(
-			'_' => 'Vie',	// DIRTY
-			'sqlite' => 'Lataa käyttäjän tietokanta SQLite-muodossa',	// DIRTY
+			'_' => 'Vie',
+			'sqlite' => 'Lataa käyttäjän tietokanta SQLite-muodossa',
 		),
 		'export_labelled' => 'Vie merkityt artikkelit',
 		'export_opml' => 'Vie syöteluettelo (OPML)',

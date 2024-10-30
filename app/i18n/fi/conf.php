@@ -100,8 +100,8 @@ return array(
 		),
 	),
 	'privacy' => array(
-		'_' => 'Tietosuoja',	// DIRTY
-		'retrieve_extension_list' => 'Nouda laajennusluettelo',	// DIRTY
+		'_' => 'Tietosuoja',
+		'retrieve_extension_list' => 'Nouda laajennusluettelo',
 	),
 	'profile' => array(
 		'_' => 'Profiilien hallinta',
@@ -177,7 +177,7 @@ return array(
 		'_' => 'Lukeminen',
 		'after_onread' => 'Kun valitset “merkitse kaikki luetuiksi”',
 		'always_show_favorites' => 'Näytä oletusarvoisesti kaikki suosikkiartikkelit',
-		'apply_to_individual_feed' => 'Asetus vaikuttaa jokaiseen syötteeseen erikseen',	// DIRTY
+		'apply_to_individual_feed' => 'Asetus vaikuttaa jokaiseen syötteeseen erikseen',
 		'article' => array(
 			'authors_date' => array(
 				'_' => 'Kirjoittajat ja päiväys',
