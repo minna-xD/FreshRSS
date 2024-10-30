@@ -21,6 +21,7 @@ return array(
 		'delete_muted_feeds' => 'Poista vaimennetut syötteet',
 		'demote' => 'Laske tärkeyttä',
 		'disable' => 'Poista käytöstä',
+		'download' => 'Lataa',	// DIRTY
 		'empty' => 'Tyhjennä',
 		'enable' => 'Ota käyttöön',
 		'export' => 'Vie',
@@ -127,9 +128,9 @@ return array(
 		'wed' => 'ke',
 		'yesterday' => 'Eilen',
 	),
-	'dir' => 'ltr',	// TODO
+	'dir' => 'ltr',	// IGNORE
 	'freshrss' => array(
-		'_' => 'FreshRSS',	// TODO
+		'_' => 'FreshRSS',	// IGNORE
 		'about' => 'Tietoja FreshRSS-sovelluksesta',
 	),
 	'js' => array(

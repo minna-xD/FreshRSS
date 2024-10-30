@@ -246,7 +246,10 @@ return array(
 		'websub' => 'Välittömät ilmoitukset WebSubin avulla',
 	),
 	'import_export' => array(
-		'export' => 'Vie tiedostoon',
+		'export' => array(
+			'_' => 'Vie',	// DIRTY
+			'sqlite' => 'Lataa käyttäjän tietokanta SQLite-muodossa',	// DIRTY
+		),
 		'export_labelled' => 'Vie merkityt artikkelit',
 		'export_opml' => 'Vie syöteluettelo (OPML)',
 		'export_starred' => 'Vie suosikit',
